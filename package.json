@@ -1,0 +1,31 @@
+{
+  "name": "celmec",
+  "version": "1.0.6",
+  "description": "Calculate the real-time positions of the sun, all planets and every star/deep-sky object at the sky completely client-side",
+  "main": "celmec/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nare214/celmec.git"
+  },
+  "keywords": [
+    "math",
+    "astronomy",
+    "physics",
+    "calculations",
+    "stars",
+    "planets",
+    "sun"
+  ],
+  "author": "nare214",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nare214/celmec/issues"
+  },
+  "homepage": "https://github.com/nare214/celmec#readme",
+  "dependencies": {
+    "node": "^20.6.0"
+  }
+}
